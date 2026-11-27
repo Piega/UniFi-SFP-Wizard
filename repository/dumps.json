@@ -16,11 +16,11 @@
     },
     {
       "file": "CISCO-ACCELINK-RTXM228-551-C98.uieeprom",
-      "name":  "CISCO-MA-SFP-10GB-SR 10G 850NM MM",
+      "name": "CISCO-MA-SFP-10GB-SR 10G 850NM MM",
       "vendor": "Cisco",
       "author": "Maui"
     },
-    {  
+    {
       "file": "CISCO-FTLF1318P3BTL-C1.uieeprom",
       "name": "CISCO-GLC-LH-SMD 1000BASE-LX/LH (1G 1310NM SM)",
       "vendor": "Cisco",
@@ -45,10 +45,28 @@
       "author": "Maui"
     },
     {
-  "file": "BN-CKM-SP-SR.uieeprom",
-  "name": "IBM/Blade Network BN-CKM-SP-SR 10GBase-SR (850nm, 300m)",
-  "vendor": "IBM/Blade Network Technologies",
-  "author": "krusic22 (SFP-Transceiver-Flashing collection)"
-   }
+      "file": "BN-CKM-SP-SR.uieeprom",
+      "name": "IBM/Blade Network BN-CKM-SP-SR 10GBase-SR (850nm, 300m)",
+      "vendor": "IBM/Blade Network Technologies",
+      "author": "krusic22 (SFP-Transceiver-Flashing collection)"
+    },
+    {
+      "file": "ADDON-J4859C-AO.uieeprom",
+      "name": "ADDON HP J4859C compatible 1G 1310nm SM (10km)",
+      "vendor": "ADDON",
+      "author": "posi211"
+    },
+    {
+      "file": "Aruba-J9150D-Ligent Photonics-LTF8502-BC.uieeprom",
+      "name": "Aruba J9150D compatible 10G 850nm MM SR",
+      "vendor": "Ligent Photonics",
+      "author": "marcodalli"
+    },
+    {
+      "file": "Ubiquiti Inc.-OM-MM-10G-D.uieeprom",
+      "name": "Ubiquiti OM-MM-10G-D 10G 850nm MM SR",
+      "vendor": "Ubiquiti",
+      "author": "marcodalli"
+    }
   ]
 }
